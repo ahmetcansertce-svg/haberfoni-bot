@@ -1,6 +1,5 @@
 node_modules/
-.env
-.env.local
+# .env — intentionally tracked (private repo)
 *.log
 dist/
 .DS_Store
